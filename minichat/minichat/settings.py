@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'minichat.wsgi.application'
 #        'ENGINE': 'django.db.backends.postgresql',
 #        'NAME': 'minichatprueva',
 #        'USER': 'postgres',
-#        'PASSWORD': '71198081',
+#        'PASSWORD': '71198000',
 #        'HOST': 'localhost',
 #        'PORT': '5432',
 #    }

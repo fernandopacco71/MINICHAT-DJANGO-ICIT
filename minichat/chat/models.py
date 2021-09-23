@@ -30,3 +30,5 @@ class Chat(models.Model):
 
     def __str__(self):
         return "{}".format(self.pk)
+
+   
